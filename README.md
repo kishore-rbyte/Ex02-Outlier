@@ -44,6 +44,7 @@ Save the final data set into the file.
 ## Program:
 
 ### 1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
+``` 
 
 import pandas as pd
 import numpy as np
